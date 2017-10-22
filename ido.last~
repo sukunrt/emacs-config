@@ -1,0 +1,269 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/anduril/personal/" . "notes/")
+ ("/Users/anduril/keplerlabs/babel/parse_statement/parse_statement/" . "asmith/")
+ ("/Users/anduril/keplerlabs/babel/parse_statement/parse_statement/asmith/engine/" . "parsers/")
+ ("/Users/anduril/keplerlabs/babel/parse_statement/parse_statement/asmith/" . "engine/")
+ ("/Users/anduril/keplerlabs/babel/parse_statement/" . "parse_statement/")
+ ("/Users/anduril/keplerlabs/babel/parse_api/polls/templates/" . "polls/")
+ ("/Users/anduril/keplerlabs/babel/parse_api/polls/" . "templates/")
+ ("/Users/anduril/keplerlabs/babel/" . "parse_statement/")
+ ("/Users/anduril/keplerlabs/babel/parse_api/" . "polls/")
+ ("/Users/anduril/ezcred/" . "notes/")
+ ("/Users/anduril/keplerlabs/asmith/engine/" . "parsers/")
+ ("/Users/anduril/keplerlabs/asmith/" . "engine/")
+ ("/Users/anduril/keplerlabs/" . "asmith/")
+ ("/Users/anduril/Downloads/tabula/" . "Tabula.app/")
+ ("/Users/anduril/machine_learning/ml_3_ng/" . "ex3/")
+ ("/Users/anduril/machine_learning/" . "ml_3_ng/")
+ ("/Users/anduril/Downloads/com.perfios_2016-12-06_source_from_JADX/com/perfios/" . "http/")
+ ("/Users/anduril/Downloads/com.perfios_2016-12-06_source_from_JADX/com/" . "perfios/")
+ ("/Users/anduril/Downloads/com.perfios_2016-12-06_source_from_JADX/" . "assets/")
+ ("/Users/" . "anduril/")
+ ("/Users/anduril/todo/" . "codechef/")
+ ("/Users/anduril/programming/" . "python/")
+ ("/Users/anduril/Downloads/" . "tabula/")
+ ("/Users/anduril/.emacs.d/elpa/" . "zenburn-theme-20170306.2250/")
+ ("/Users/anduril/programming/js/" . ".git/")
+ ("/Users/anduril/.emacs.d/" . "lisp/")
+ ("/Users/anduril/" . "keplerlabs/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/anduril/keplerlabs/asmith/engine/parsers/"
+ "/Users/anduril/.emacs.d/"
+ "/Users/anduril/Downloads/"
+ "/Users/anduril/todo/"
+ "/Users/anduril/keplerlabs/asmith/output/"
+ "/Users/anduril/keplerlabs/asmith/input/"
+ "/Users/anduril/keplerlabs/asmith/engine/models/"
+ "/Users/anduril/keplerlabs/asmith/engine/"
+ "/Users/anduril/keplerlabs/asmith/"
+ "/Users/anduril/personal/notes/"
+ "/Users/anduril/personal/"
+ "/Users/anduril/keplerlabs/babel/parse_statement/parse_statement/asmith/engine/parsers/"
+ "/Users/anduril/keplerlabs/babel/parse_statement/parse_statement/asmith/engine/"
+ "/Users/anduril/keplerlabs/babel/parse_statement/parse_statement/"
+ "/Users/anduril/.config/"
+ "/Users/anduril/keplerlabs/asmith/engine/utils/"
+ "/Users/anduril/keplerlabs/babel/parse_statement/parse_statement/asmith/"
+ "/Users/anduril/personal/extensions/ttl/"
+ "/Users/anduril/keplerlabs/babel/parse_statement/"
+ "/Users/anduril/keplerlabs/babel/"
+ "/Users/anduril/keplerlabs/babel/parse_api/polls/"
+ "/Users/anduril/keplerlabs/babel/parse_api/polls/templates/polls/"
+ "/Users/anduril/keplerlabs/babel/parse_api/parse_api/"
+ "/Users/anduril/keplerlabs/"
+ "/Users/anduril/.emacs.d/lisp/"
+ "/Users/anduril/Downloads/com.perfios_2016-12-06_source_from_JADX/com/perfios/constants/"
+ "/Users/anduril/machine_learning/"
+ "/Users/anduril/ezcred/notes/"
+ "/Users/anduril/programming/python/"
+ "/Users/anduril/Downloads/tabula/"
+ "/Users/anduril/notes/"
+ "/Users/anduril/machine_learning/ml_3_ng/ex3/"
+ "/Users/anduril/opencv/"
+ "/Users/anduril/Downloads/NimNim Final 12032015 Card 2 4 4/"
+ "/Users/anduril/Downloads/NimNim Final 12032015 Card 2 4 4/NimNim/"
+ "/Users/anduril/Downloads/com.perfios_2016-12-06_source_from_JADX/com/perfios/http/"
+ "/Users/anduril/Downloads/com.perfios_2016-12-06_source_from_JADX/com/perfios/helper/"
+ "/Users/anduril/Downloads/com.perfios_2016-12-06_source_from_JADX/com/perfios/login/"
+ "/Users/anduril/programming/js/"
+ "/Users/anduril/get-shit-done/"
+ "/Users/anduril/get-shit-done/.config/"
+ "/Users/anduril/Downloads/MyUniverse---buy-mutual-fund,-loan,-credit-card_v1.0.11pakage_source_from_JADX/"
+ "/Users/anduril/programming/codechef/"
+ "/Users/anduril/programming/codeforces/"
+ "codechef/"
+ "/Users/anduril/programming/euler/"
+ "/Users/anduril/"
+ "/Users/anduril/Downloads/algorithms/"
+ "/Users/anduril/.emacs.d/elpa/zenburn-theme-20170306.2250/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "CitiParser.py"
+ "init.el"
+ "hdfcParser.py"
+ "tabula-test5 (3).sh"
+ "project_ideas.org"
+ "citi.json"
+ "out.json"
+ "test8.json"
+ "__init__.py"
+ "tabula-bank_july.1 (2).sh"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/anduril/.emacs.d/" (23017 40417 0 0) "snippets/" "projectile-bookmarks.eld" "network-security.data" "lisp/" "keybindings.el" "init24.el" "init.el~" "init.el" "ido.last~" "ido.last" "emacs/" "elpa/" "auto-save-list/" "ac-comphist.dat" ".python-environments/" ".DS_Store" "../" "./")
+
+ ("/Users/anduril/Downloads/" (23015 5197 0 0) "zoomusInstaller.pkg" "Zenburn.itermcolors" "www.Torrenting.com - Silicon.Valley.S04E02.HDTV.x264-SVA/" "William B. Irvine-A Guide to the Good Life_ The Ancient Art of Stoic Joy-Oxford University Press (2008).epub" "WhatsApp Video 2017-08-19 at 8.45.36 PM.3gpp" "WhatsApp Image 2017-09-25 at 6.37.00 PM.jpeg" "WhatsApp Image 2017-09-25 at 5.54.29 PM.jpeg" "WhatsApp Image 2017-09-10 at 2.11.20 AM.jpeg" "WhatsApp Image 2017-08-19 at 1.10.37 PM.jpeg" "WhatsApp Image 2017-08-06 at 8.14.27 PM.jpeg" "WhatsApp Image 2017-07-21 at 3.42.55 PM.jpeg" "WhatsApp Image 2017-07-12 at 4.42.49 PM.jpeg" "WhatsApp/" "vol1_el.zip" "vol1/" "Vishwanath Interview.mp3" "uxpin_enterprise_ux_industry_report_2017_2018.zip" "uTorrent.dmg" "UTC--2017-09-21T19-21-19.881Z--a417c88ce356ce165c1ab1c3406c4120e17dccb4" "UTC--2017-09-07T07-26-57.812Z--cddbf2e1906c9b083394ea486b0f614f839389eb" "USD717332.pdf" "uidai-kyc-client-1.0-src.zip" "uidai-auth-client-1.6-src.zip" "tt.out" "transcription-ee76ef2bb1a3.json" "Total Freedom. The Essential Krishnamurti.epub" "Thomas Petzinger Hard Landing The Epic Contest for Power and Profits That Plunged the Airlines into Chaos 1995.epub" "TheSwiftProgrammingLanguage(Swift4).epub" "the_one_nimnim/" "The_big_data_revolution_in_healthcare.pdf" "The Sovereign Individual - James Dale Davidson, Lord William Rees-Mog.epub" "The Dispossessed - Ursula K. Le Guin.mobi" "The Content Marketing Playbook.pdf" "The C Programming Language - 2nd Edition - Ritchie Kernighan.pdf" "test_sal.pdf" "test8.pdf" "test5.pdf" "test.flac" "TAX P&L 01-04-2016-31-03-2017.xlsx" "tabula_java.jar" "tabula-test5.sh" "tabula-test5 (3).sh" "tabula-test5 (2).sh" "tabula-test5 (1).sh" "tabula-sbi.sh" "tabula-sbi (1).sh" "tabula-mac-1.1.1.zip" "tabula-bank_july.4.sh" "tabula-bank_july.4.json" "tabula-bank_july.4.csv" "tabula-bank_july.4 (1).sh" "tabula-bank_july.1.sh" "tabula-bank_july.1.json~" "tabula-bank_july.1.json" "tabula-bank_july.1 (2).sh" "tabula-bank_july.1 (2).json" "tabula-bank_july.1 (1).sh" "tabula-bank_july.1 (1).json" "tabula/" "tableplus_latest.zip" "TablePlus.app/" "Table-20.1.xlsx" "Symposium Schedule_2017.pdf" "SUKUN RAMESH TARACHANDANI.pdf" "sublime-screencast.mov" "Sublime Text Build 3126.dmg" "Steven Gary Blank, Steve Blank-The Four Steps to the Epiphany_ Successful Strategies for Products that Win-Quad_Graphics (2007).pdf" "Steve Blank, Bob Dorf-The Startup Owner's Manual_ The Step-By-Step Guide for Building a Great Company-K & S Ranch (2012).epub" "steam.dmg" "SpotifyInstaller.zip" "sorted_keys" "soln7.pdf" "soln6.pdf" "soln5.pdf" "soln4.pdf" "soln3.pdf" "soln2.pdf" "soln1.pdf" "soln-final.pdf" "Slack.app/" "Shock_the_system_driving_sales_via_in_store_execution.pdf" "Seymour Papert-Mindstorms - Children, Computers and Powerful Ideas-Basic Books (1981).pdf" "Seneca on the Shortness of Life.epub" "Sean Ellis, Morgan Brown-Hacking Growth_ How Today’s Fastest-Growing Companies Drive Breakout Success-Crown Business (2017).epub" "screenshots/" "Screenshot_20170706-202458.png" "scrap.py" "sbi.pdf" "Savings_Stmt_070617121237.xls" "Sandor Lehoczky, Richard Rusczyk-The Art of Problem Solving, Vol. 1_ The Basics-AoPS Incorporated (2006).pdf" "Sandip Claims.md" "SampleVideo_1280x720_2mb.mp4" "S. N. Goenka-The Discourse Summaries (1995).pdf" "Rules Engine.png" "Roy F. Baumeister, John Tierney-Willpower_ Rediscovering the Greatest Human Strength  -The Penguin Press (2011).epub" "Rota-Baclawski-Prob-Theory-79.pdf" "RoboAdvisorsStartupLandscapeGlobal_277_05-Dec-2016.pdf" "Robert B. Cialdini-Influence_ The Psychology of Persuasion  -HarperCollins (2009).epub" "Rick.and.Morty.S03E09.720p.HDTV.x264-BATV[rarbg]/" "Richard W. Hamming-Art of Doing Science and Engineering_ Learning to Learn-CRC Press (1997).epub" "Richard Rusczyk-Introduction to algebra (the art of problem solving)-AoPS Incorporated (2007).pdf" "Richard Rusczyk-Introduction to algebra (the art of problem solving)-AoPS Incorporated (2007) (1).pdf" "Retail-Accuracy-Monolith-Prism-WhitePaper-for-WordPress.pdf" "Retail-Accuracy-Monolith-Prism-WhitePaper-for-WordPress (4).pdf" "Retail-Accuracy-Monolith-Prism-WhitePaper-for-WordPress (3).pdf" "Retail-Accuracy-Monolith-Prism-WhitePaper-for-WordPress (2).pdf" "Retail-Accuracy-Monolith-Prism-WhitePaper-for-WordPress (1).pdf" "Retail In-store Analytics.pdf" "resume_updated.pdf" "resume_updated (1).pdf" "Resume.pdf" "registry.pdf" "Ray Dalio-Principles_ Life and Work-Simon & Schuster (2017).epub" "rationality_from_ai_to_zombies.zip" "RationaleReport.pdf" "ps7.pdf" "ps6.pdf" "ps5.pdf" "ps4.pdf" "ps3.pdf" "ps2.ps" "ps2.pdf" "ps1.pdf" "Programming Exercise 3 - Multi-class Classification and Neural Networks.ipynb" "probability-mitzenmacher.pdf" "prob-solved_2ndedition.pdf" "Principles - Ray Dalio.epub" "Primereng English.zip" "Primereng English/" "Pressfield, Steven_ Pressfield, Steven-The war of art _ winning the inner creative battle-FastPencil PREMIERE_[Rugged Land] (2002).epub" "Prayas Case Study.pdf" "Prayas Case Study (2).pdf" "Prayas Case Study (1).pdf" "Povey's Perplexing Problems.epub" "pmarca-blog_ebook.epub" "pitchbook.pdf" "pi/" "Peter Winkler-Mathematical Puzzles  A Connoisseur's Collection (2003).pdf" "Peter Winkler-Mathematical Mind-Benders-A K Peters_CRC Press (2007).pdf" "perfiosDMIResponse12Months.xml" "pc4.apk" "payments_to_be_charged - Read to charge.csv" "payments_q1.csv" "Paradigms-of-Artificial-Intelligence-Programming.pdf" "PAN_CARD.jpg" "PAN_CARD (1).jpg" "p089_roman.txt" "p083_matrix.txt" "output.flac" "out.txt" "out.out" "out.html" "On_Slums-2011Final.ppt" "On-Line_and_Off-Line_Handwriting_Recogni.pdf" "nimnim_preupload_final/" "nimnim_ios/" "nimnim_front/" "nimnim_final_final_update/" "nimnim_fin_fin_fin_update/" "NimNim_fin/" "nimnim_before_update/" "nim_nim_fin_test/" "Newton.2017.Hindi.(1CD).PRE.x264.AAC.-.Hon3y/" "Neuron.pdf" "NCERT_CCE prescribed_text_books_from_classes_iii_to_xii.docx" "NCERT_CCE prescribed_text_books_from_classes_iii_to_xii (1).docx" "NAD-AI-JOINING-LETTER.DOCX" "MyUniverse---buy-mutual-fund,-loan,-credit-card_v1.0.11pakage_source_from_JADX.zip" "MyUniverse---buy-mutual-fund,-loan,-credit-card_v1.0.11pakage_source_from_JADX/" "MyUniverse---buy-mutual-fund%2C-loan%2C-credit-card_v1.0.11pakage.apk" "My_Test_Parse.playground/" "Mott McDonald- Post Enrollment Survey_RSBY Gujarat.pdf" "moonlight2016bdripx264-sparks-ytsag-english-104366.zip" "Moonlight.2016.BDRip.x264-SPARKS + YTS.AG.srt" "Moonlight.2016.BDRip.x264-SPARKS + YTS.AG 2.srt" "Moonlight.2016.720p.BRRip.x264.AAC-ETRG/" "miniDM.pdf" "midterm-soln.pdf" "mid.pdf" "MCTB.epub" "maxresdefault.jpg" "matrixcalculus.pdf" "Master.of.None.SEASON.02.S02.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA/" "Marty Cagan-Inspired_ How To Create Products Customers Love  -SVPG Press (2008).mobi" "Managing Humans_ Biting and Humorous Tal - Michael Lopp.epub" "Making_of_a_digital_insurer_2015.pdf" "machine-learning-ex3.zip" "machine-learning-ex3/" "looking+for+a+challenge.pdf" "Looking for a challange 2/" "Looking for a challange/" "Linear_Algebra,_4th_Edition__(2009)Lipschutz-Lipson.pdf" "lec22-dhts.ppt" "latest_json" "Krishnamurti - The Book of Life.epub" "Jorge Luis Borges-Labyrinths_ Selected Stories & Other Writings (New Directions Paperbook) (2007).pdf" "James Gleick-Isaac Newton-Knopf Doubleday Publishing Group (2012).epub" "James Gleick-Genius_ Life & Science of Richard Feynman-PANTHEON (1992).epub.crdownload" "James Gleick-Genius_ Life & Science of Richard Feynman-PANTHEON (1992).epub" "James Dale Davidson_ William Rees-Mogg-The sovereign individual _ how to survive and thrive during the collapse of the welfare state-Simon & Schuster (1997).pdf" "James Dale Davidson_ William Rees-Mogg-The sovereign individual _ how to survive and thrive during the collapse of the welfare state-Simon & Schuster (1997) (1).pdf" "iTerm2-3_0_15.zip" "Italo Calvino_ selected and with an introduction by Michael Wood _ translated by Martin McLaughlin-Italo Calvino_ Letters, 1941-1985-Princeton University Press (2014).epub" "isl_wise_train_detail_03082015_v1.csv" "IRDAI Journal Quarterly Jan-March 2017.pdf" "IOS.zip" "IOS/" "inventiv_final.pdf" "introduction to probability (bertsekas, 2nd, 2008).pdf" "introduction to probability (bertsekas, 2nd, 2008) (2).pdf" "introduction to probability (bertsekas, 2nd, 2008) (1).pdf" "Introduction to Austrian Economics_3.pdf" "InternetofThingsInfrastructureStartupLandscapeGlobal_287_20-Dec-2016.pdf" "Intercom_on_starting_up.pdf" "Intercom-on-Product-Management-.epub" "Insuring Health of Millions-Smart Use of Technology.pdf" "Install Spotify.app/" "Insight+Practice+Instructions+Legal+size.doc" "Insight+Practice+Instructions+Legal+size (2).doc" "Insight+Practice+Instructions+Legal+size (1).doc" "innogy.pdf" "Ingestion.png" "India_as_an_agriculture_and_high_value_food_powerhouse.pdf" "Inconsolata.zip" "Inconsolata/" "IMG_20170905_132152.jpg" "IMG_20170711_083334.jpg" "IMG_20170406_173721.jpg" "IMG_20170207_001646.jpg" "IMG_20170207_001626.jpg" "IMG_0007.jpg" "IMG_0003.jpg" "IMG_0003 (1).jpg" "IMG_0001.jpg" "IMG_0001 (1).jpg" "ideaIC-2017.2.5.dmg" "id497799835.html" "Iain M. Banks The Player of Games  .epub" "Iain M. Banks Culture 2 The Player of Games.epub" "how_to_prove_it.pdf" "Hogben-Handbook of Linear Algebra-(CRC press, 2007).pdf" "hlthins_sy2006_rev.sas7bdat" "HLC fat query.png" "Hilary Mantel-A Place of Greater Safety-HarperPerennial (2007).pdf" "Healthcare & Pharma_ inVentiv Health _ Captricity_files/" "Healthcare & Pharma_ inVentiv Health _ Captricity.htm" "Health_Claims_SampleDataMasked_1.xls" "Health-benefits-of-mackerel.jpg" "Harry Potter And The Deathly Hallows Part 1 (2010)/" "handwriting_scan.pdf" "Greg Mckeown-Essentialism_ The Disciplined Pursuit of Less-Crown Business (2014).epub" "Google.Play.Music.Desktop.Player.OSX.zip" "FS_034407102A10060331-ft1.jpg" "formatted.json~" "formatted.json" "Flowers for Algernon/" "Fintuple - API Banking.pdf" "Fintuple - API Banking (2).pdf" "Fintuple - API Banking (2) (1).pdf" "Fintuple - API Banking (1).pdf" "FinDataAPI_fintuple.pdf" "FinDataAPI_fintuple (1).pdf" "final.pdf" "Fermi's Paradox - Stephen Webb.docx" "fat query model analysis.png" "F15C_2.zip" "F15C_1.zip" "F15B_2.zip" "F15B_1.zip" "F15A_2.zip" "F15A_1.zip" "ether_wallet.pdf" "Ernest Hemingway The Old Man And The Sea  .epub" "Erik Brynjolfsson, Andrew McAfee, Jeff Cummings-The Second Machine Age_ Work, Progress, and Prosperity in a Time of Brilliant Technologies-Brilliance Audio on MP3-CD (2014).epub" "Eric Ries-The Lean Startup_ How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses  -Crown Publishing Group (2011).epub" "Enterprise UX Industry Report 2017–2018.pdf" "ens_registrar.pdf" "ens_overview.pdf" "ens_overview (2).pdf" "ens_overview (1).pdf" "ens system.pdf" "ens system (1).pdf" "emacs.zip" "emacs/" "efma-innovation-report-2016.pdf" "EducationITStartupLandscapeGlobal_281_12-Dec-2016.pdf" "Dwyer1967MatrixDerivativesMultivariate.pdf" "drools-distribution-7.3.0.Final.zip" "download" "Design tool.md" "depositHistory.csv" "depositHistory (1).csv" "DCIM/" "David Deida-The Way of the Superior Man_ A Spiritual Guide to Mastering the Challenges of Women, Work, and Sexual Desire-Sounds True (2017).epub" "David Deida-The Way of the Superior Man_ A Spiritual Guide to Mastering the Challenges of Women, Work, and Sexual Desire-Sounds True (2004).epub" "David D. Burns M.D.-When Panic Attacks_ The New, Drug-Free Anxiety Therapy That Can Change Your Life-Broadway (2006).epub" "David D. Burns M.D.-When Panic Attacks_ The New, Drug-Free Anxiety Therapy That Can Change Your Life-Broadway (2006) (1).epub" "David D. Burns (Author)-Feeling Good_ The New Mood Therapy Revised and Updated [Mass Market Paperback]-Avon Books (1999).epub" "David D. Burns (Author)-Feeling Good_ The New Mood Therapy Revised and Updated [Mass Market Paperback]-Avon Books (1999) (1).epub" "datafile.xml" "d3.zip" "d3/" "crf-benson.ppt" "cranks.pdf" "Copy of payments as of sep 16 - 2017 Q3.csv" "Copy of payments as of sep 16 - 2017 Q2.csv" "ContestAppletProd.jnlp" "competition.md" "com.perfios_2016-12-06_source_from_JADX.zip" "com.perfios_2016-12-06_source_from_JADX/" "com.perfios_2016-12-06.apk" "cloud-middleware---application-platform-ap-white-paper-external-apw12356usen-20170728.pdf" "Cixin Liu, Ken Liu The Three-Body Problem.epub" "CibilMultibureauResponseFinishedListWithCorrectCibilResponseMultipleProfilesWithDualPan.json" "chpr.pdf" "CGSlate-Brochure.pdf" "Brown D.E.-Human universals, human nature, human culture.pdf" "Bridgewater-Associates-Ray-Dalio-Principles.pdf" "BlockchainSectorLandscapeReport_318_17-Jan-2017.pdf" "Black Mirror Season 3 Complete WEBRip x264-FS/" "bird.avi" "Bill Walsh, Steve Jamison, Craig Walsh-The Score Takes Care of Itself_ My Philosophy of Leadership  -the Penguin Group (2009).pdf" "Bill Walsh, Steve Jamison, Craig Walsh-The Score Takes Care of Itself_ My Philosophy of Leadership  -the Penguin Group (2009) (1).pdf" "biblio.bib.old" "bible.txt" "bersetkas_prob-solved_2ndedition (1).pdf" "Ben Horowitz-The Hard Thing About Hard Things_ Building a Business When There Are No Easy Answers-HarperBusiness (2014).epub" "banksy_calais__01_2015.JPG" "Banksy-Follow-Your-Dreams-Cancelled.jpg" "bank_july.split.zip" "bank_july.split/" "auth-kyc-bfd-otp-xsd-proto_1.6.zip" "auction_process.pdf" "AUA_Design_and_Implementation.pdf" "attributeMap.json~" "attributeMap.json" "attributeMap (1).json" "attachment-5527424144891246987Screenshot-1012-113342.png" "attachment-5527424144891246987Screenshot-1012-113342 (1).png" "ArtificialIntelligenceStartupLandscapeGlobal_272_23-Nov-2016.pdf" "Archi/" "Ankit Insurance.md" "anduril.pem" "androidfiletransfer.dmg" "anaconda-2.1.17.tar.gz" "anaconda-2.1.17/" "amsbook.mac.pdf" "all_testers_export.csv" "algorithms/" "Alfred_3.4.1_860.dmg" "Alastair Reynolds The Revelation Space Collection.mobi" "Alastair Reynolds Revelation Space  .epub" "Adversarial-LSUN.ipynb.txt" "ace-equity.pdf" "9b13183dc4d60676b773c9e2cd6de5e5542cee9a.torrent" "9788132207498-c2.pdf" "6a3b2a23c2cf4e7860bb98921a7c0effa8453b89_image-2.png" "69597505_1502008305816.pdf" "69597505_1502008305816 (1).pdf" "596644d906f4120400fcc66b-results.json" "596644d906f4120400fcc66b-results.csv" "40probability.pdf" "398d3900453111e78e3205878275627a.map.svg" "240la.pdf" "2017-08-08-13-38-33-821_1502179713821_XXXPT6227X_ITRV.pdf" "2017-08-06-14-04-17-461_1502008457461_XXXPT6227X_ITRV.zip" "2017-08-06-14-04-17-461_1502008457461_XXXPT6227X_ITRV.pdf" "200 Puzzling Physics Problems.pdf" "1rft3m.jpg" "1311_05-08_mickens.pdf" "120x120-2.zip" "120x120-2.png" "120x120-2/" "119387_A_First_Course_in_Probability_8th_Edition.pdf" "0387982582.pdf" "01 Making stores matter.pdf" "00154810_2017_F16.pdf" ".localized" ".ipynb_checkpoints/" ".DS_Store" ".#tabula-sbi (1).sh" ".#formatted.json" "*Python*" "#tabula-sbi (1).sh#" "#formatted.json#" "../" "./")
+
+ ("/Users/anduril/.emacs.d/elpa/" (23014 23888 0 0) "zenburn-theme-20170306.2250/" "yasnippet-20170418.351/" "writeroom-mode-20170623.327/" "with-editor-20170417.1458/" "web-mode-20170419.132/" "visual-fill-column-20170502.1300/" "use-package-20170405.1028/" "smart-mode-line-powerline-theme-20160705.1738/" "smart-mode-line-20160818.508/" "s-20160928.636/" "rich-minority-20160725.1255/" "rainbow-mode-0.13/" "pyvenv-20170224.538/" "pythonic-20160221.1123/" "python-environment-20150310.153/" "pyenv-mode-20170801.1648/" "py-autopep8-20160925.352/" "projectile-20170416.148/" "powerline-20161121.2320/" "popup-20160709.729/" "pkg-info-20150517.443/" "php-mode-20170419.1240/" "multiple-cursors-20170215.552/" "markdown-mode-20170317.1202/" "magit-popup-20170420.544/" "magit-20170425.638/" "json-snatcher-20150511.2047/" "jedi-core-20170121.610/" "jedi-20160425.2156/" "ivy-20170416.1021/" "highlight-indentation-20170411.40/" "go-mode-20170308.1512/" "go-eldoc-20170305.627/" "git-commit-20170314.1414/" "geiser-20170411.1021/" "find-file-in-project-20170402.2100/" "f-20170404.1039/" "exec-path-from-shell-20170304.1309/" "epl-20150517.433/" "epc-20140609.2234/" "elpy-20170414.319/" "diminish-20170419.1036/" "deferred-20170901.630/" "dash-20170207.2056/" "ctable-20140304.1659/" "concurrent-20161228.1930/" "company-go-20170420.515/" "company-20170420.1837/" "bind-key-20161218.1520/" "auto-complete-20170124.1845/" "auctex-11.90.2/" "async-20170219.942/" "archives/" "../" "./")
+
+ ("/Users/anduril/todo/" (23014 23607 0 0) "todo.org~" "todo.org_archive~" "todo.org_archive" "todo.org" "project_ideas.org~" "project_ideas.org" "feel_good.md~" "feel_good.md" "codechef/" "blog_ideas.org~" "blog_ideas.org" ".DS_Store" ".#project_ideas.org" "#project_ideas.org#" "../" "./")
+
+ ("/Users/anduril/" (23013 61841 0 0) "Untitled1.ipynb" "Untitled.ipynb" "todo/" "t.o" "t.cpp~" "t.cpp" "rest~" "rest" "Public/" "programming/" "probability_lectures/" "Pictures/" "personal/" "opencv/" "notes/" "nimnim/" "Music/" "Movies/" "machine_learning/" "Library/" "Lecture 7 - Gambler's Ruin and Random Variables _ Statistics 110-PNrqCdslGi4.webm.part" "keplerlabs/" "IdeaProjects/" "get-shit-done/" "ezcred/" "Downloads/" "Documents/" "DisplayVendorID-1e6d/" "Disclaim.jsp.1" "Disclaim.jsp" "Desktop/" "cases/" "Calibre Library/" "aws_keys/" "Applications/" ".virtualenvs/" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".ssh/" ".sqlite_history" ".python_history" ".putty/" ".pdfbox.cache" ".oracle_jre_usage/" ".old_itmstransporter/" ".npm/" ".mysql_history" ".matplotlib/" ".m2/" ".local/" ".lldb/" ".lein/" ".jupyter/" ".itmstransporter/" ".ipython/" ".ipynb_checkpoints/" ".gradle/" ".emacs.d/" ".DS_Store" ".config/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile" ".bash_history" ".android/" ".#t.json" ".#rest" "#t.json#" "#rest#" "../" "./")
+
+ ("/Users/anduril/keplerlabs/asmith/engine/" (23013 61815 0 0) "utils/" "tabula/" "parsers/" "parseFile.py" "models/" "__pycache__/" "../" "./")
+
+ ("/Users/anduril/keplerlabs/asmith/engine/parsers/" (23013 61904 0 0) "testparser.py~" "testparser.py" "test_parser~" "test_parser" "sbiParser.pyc" "sbiParser.py" "parser.pyc" "parser.py" "hdfcParser.pyc" "hdfcParser.py" "CitiParser.py" "__pycache__/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/anduril/keplerlabs/asmith/engine/utils/" (23013 60801 0 0) "fileUtils.pyc" "fileUtils.py" "dataUtils.pyc" "dataUtils.py" "customEncoders.pyc" "customEncoders.py" "constants.pyc" "constants.py" "__pycache__/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/anduril/keplerlabs/asmith/output/" (23013 60484 0 0) "test8.json" "output_sal.json" "out.json" "citi.json" ".gitignore" "#output_sal.json#" "../" "./")
+
+ ("/Users/anduril/personal/notes/" (23013 55870 0 0) "programming_notes.org~" "programming_notes.org" "../" "./")
+
+ ("/Users/anduril/keplerlabs/asmith/input/" (23013 54310 0 0) "test_sal.pdf" "test8.pdf" "sbi.pdf" "bank_july.pdf" ".gitignore" "../" "./")
+
+ ("/Users/anduril/keplerlabs/asmith/engine/models/" (23013 54209 0 0) "bankStatement.pyc" "bankStatement.py" "__pycache__/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/anduril/keplerlabs/" (23013 54009 0 0) "babel/" "asmith/" ".DS_Store" "../" "./")
+
+ ("/Users/anduril/keplerlabs/asmith/" (23013 54009 0 0) "README.md" "output/" "input/" "engine/" "asmith.py" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/anduril/personal/" (23013 50189 0 0) "profile.pdf" "profile.md~" "profile.md" "popup_files/" "popup.js" "popup.html" "out.pdf" "notes/" "icon.png" "extensions/" "../" "./")
+
+ ("/Users/anduril/keplerlabs/babel/parse_statement/parse_statement/" (23013 49527 0 0) "wsgi.py" "views.py~" "views.py" "urls.py" "settings.py" "parsePDF.py~" "parsePDF.py" "asmith/" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/anduril/keplerlabs/babel/parse_statement/parse_statement/asmith/engine/" (23013 49669 0 0) "utils/" "tabula/" "parsers/" "parseFile.py" "models/" "__pycache__/" "../" "./")
+
+ ("/Users/anduril/keplerlabs/babel/parse_statement/parse_statement/asmith/engine/parsers/" (23013 49314 0 0) "sbiParser.py" "parser.py" "hdfcParser.py" "CitiParser.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/anduril/keplerlabs/babel/parse_statement/parse_statement/asmith/" (23013 47109 0 0) "README.md" "output/" "input/" "engine/" "asmith.py" ".gitignore" ".git" "../" "./")
+
+ ("/Users/anduril/keplerlabs/babel/lib/" (23003 8481 0 0) "python3.6/" "../" "./")
+
+ ("/Users/anduril/keplerlabs/babel/include/" (23003 8481 0 0) "python3.6m/" "../" "./")
+
+ ("/Users/anduril/Downloads/tabula/" (23006 18 0 0) "test5.pdf" "Tabula.app/" "tabula-java.jar" "tabula-bank_july.4.sh~" "tabula-bank_july.4.sh" "sbi.pdf" "README.txt" "out5.json" "out4.json" "out3.json" "out2.json" "out1.json" "out.json~" "out.json" "LICENSE.txt" "bank_july.4.pdf" "bank_july.1.pdf" "AUTHORS.txt" ".DS_Store" "../" "./")
+
+ ("/Users/anduril/.emacs.d/lisp/" (23008 18279 0 0) "ui.el~" "ui.elc" "ui.el" "python-mode-config.el~" "python-mode-config.elc" "python-mode-config.el" "php-setter-getter~" "php-setter-getter" "misc.el~" "misc.elc" "misc.el" "load-packages.el~" "load-packages.elc" "load-packages.el" "keybindings.el~" "keybindings.elc" "keybindings.el" "install-packages.elc" "install-packages.el" "init25.el" "go-mode-config.el~" "go-mode-config.elc" "go-mode-config.el" "#ui.el#" "../" "./")
+
+ ("/Users/anduril/.config/" (23005 62333 0 0) "flake8~" "flake8" "../" "./")
+
+ ("/Users/anduril/keplerlabs/babel/parse_statement/parse_statement/asmith/output/" (23004 44517 0 0) ".gitignore" "../" "./")
+
+ ("/Users/anduril/keplerlabs/babel/parse_statement/parse_statement/asmith/input/" (23004 44517 0 0) ".gitignore" "../" "./")
+
+ ("/Users/anduril/personal/extensions/" (23004 56990 0 0) "ttl/" "popup.html" "../" "./")
+
+ ("/Users/anduril/personal/extensions/ttl/" (23004 57342 0 0) "popup.js" "popup.html" "out.pdf" "manifest.json~" "manifest.json" "icon.png" "../" "./")
+
+ ("/Users/anduril/keplerlabs/babel/" (23004 44517 0 0) "pip-selfcheck.json" "parse_statement/" "lib/" "include/" "bin/" ".Python" ".gitmodules" ".git/" "../" "./")
+
+ ("/Users/anduril/keplerlabs/babel/parse_statement/" (23004 44053 0 0) "parse_statement/" "new.pdf" "manage.py" "db.sqlite3" "../" "./")
+
+ ("/Users/anduril/keplerlabs/babel/parse_api/" (23003 27589 0 0) "polls/" "parse_api/" "manage.py" "db.sqlite3" "../" "./")
+
+ ("/Users/anduril/keplerlabs/babel/parse_api/polls/" (23003 27530 0 0) "views.py~" "views.py" "urls.py~" "urls.py" "tests.py" "templates/" "models.py~" "models.py" "migrations/" "apps.py" "admin.py~" "admin.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/anduril/keplerlabs/babel/parse_api/polls/templates/polls/" (23003 26738 0 0) "index.html" "detail.html~" "detail.html" "../" "./")
+
+ ("/Users/anduril/keplerlabs/babel/parse_api/polls/templates/" (23003 20747 0 0) "polls/" "../" "./")
+
+ ("/Users/anduril/keplerlabs/babel/parse_api/parse_api/" (23003 17232 0 0) "wsgi.py" "urls.py~" "urls.py" "settings.py~" "settings.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/anduril/machine_learning/" (22998 32622 0 0) "speech_progress.out" "sp.out" "pip-selfcheck.json" "numpy_exercises.ipynb" "neural_network.ipynb" "ml_3_ng/" "lib/" "include/" "file.txt" "file.output" "bin/" ".Python" ".ipynb_checkpoints/" ".DS_Store" "../" "./")
+
+ ("/Users/anduril/programming/python/" (22997 54986 0 0) "Untitled1.ipynb" "Untitled.ipynb" "stripe_nimnim~" "stripe_nimnim.py~" "stripe_nimnim.py" "reddit_comments.py~" "reddit_comments.py" "reddit.json~" "reddit.json" "process_payments.py~" "process_payments.py" "prob_sim.ipynb" "pg_essay.txt~" "pg_essay.txt" "perfios.xml" "perfios.py" "perfios.json~" "perfios.json" "payments_to_charge.csv" "payments_test_1_fin_fin_3.csv" "payments_test_1_fin_fin_2.csv" "payments_test_1_fin_fin_1.csv~" "payments_test_1_fin_fin_1.csv" "payments_test_1_fin_@.csv~" "payments_test_1_fin_@.csv" "payments_test_1_fin_3.csv~" "payments_test_1_fin_3.csv" "payments_test_1_fin.csv" "payments_test_1.csv" "payments_taken_@_1.csv" "payments_taken_@.csv" "payments_taken_1_3.csv" "payments_taken_1_1.csv" "payments_q2.csv" "payments_q1.csv" "payments_2.csv" "payments.csv" "parse_orders.py~" "parse_orders.py" "orders.py~" "orders.py" "markovgen.py~" "markovgen.py" "charge_customers.py~" "charge_customers.py" "bible.txt~" "bible.txt" "all_payments.csv~" "all_payments.csv" "__pycache__/" "2017_q3~" "2017_q3_1~" "2017_q3" "2017_q2_fin.csv" "2017_q2_2" "2017_q2_1" "2017_q1.csv" ".ipynb_checkpoints/" ".DS_Store" ".#2017_q3" "../" "./")
+
+ ("/Users/anduril/Documents/" (22997 16558 0 0) "patch-edid.rb" "NimNim_rush_alpha/" "nimnim_new_cert/" "nimnim_ios_validated/" "nimnim_ios_final_authenticated/" "nimnim_ios_9/" "nimnim_adhoc_new_cert/" "My Notes.enex" "itr.pdf" "first.py~" "first.py" "FacebookSDK/" "ether_wallet_new.pdf" "ether_wallet_bkp.pdf" "DisplayVendorID-1e6d/" "bank_july.pdf" "AppIcon.appiconset/" "[Geoffrey_Grimmett,_David_Stirzaker]_One_Thousand_(BookZZ.org).pdf" ".localized" ".DS_Store" "#first.py#" "../" "./")
+
+ ("/Users/anduril/ezcred/notes/" (22997 54996 0 0) "to_read.org~" "to_read.org" "system_architecture.org~" "system_architecture.org" "rules_engine.org~" "rules_engine.org" "../" "./")
+
+ ("/Users/anduril/Downloads/nimnim_ios/" (22997 14945 0 0) "UserProfileViewController.m" "UserProfileViewController.h" "Stripe/" "StepTwoShoeRepairViewController.m" "StepTwoShoeRepairViewController.h" "StepTwoLaundryViewController.m" "StepTwoLaundryViewController.h" "StepThreeViewController.m" "StepThreeViewController.h" "StepOneViewController.m" "StepOneViewController.h" "SlideOutViewController.m" "SlideOutViewController.h" "SignUpViewController.m" "SignUpViewController.h" "SignUpAddressViewController.m" "SignUpAddressViewController.h" "PricingViewController.m" "PricingViewController.h" "Pods/" "Podfile.lock" "Podfile" "PFFacebookUtils.m" "PFFacebookUtils.h" "PFFacebookPrivateUtilities.m" "PFFacebookPrivateUtilities.h" "PFFacebookMobileAuthenticationProvider_Private.h" "PFFacebookMobileAuthenticationProvider.m" "PFFacebookMobileAuthenticationProvider.h" "PFFacebookAuthenticationProvider.m" "PFFacebookAuthenticationProvider.h" "Parse.framework/" "parse/" "NimNimTests/" "NimNim.xcworkspace/" "NimNim.xcodeproj/" "NimNim/" "LogInViewController.m" "LogInViewController.h" "ForgotPasswordViewController.m" "ForgotPasswordViewController.h" "FBSDKShareKit.framework/" "FBSDKLoginKit.framework/" "FBSDKCoreKit.framework/" "FAQViewController.m" "FAQViewController.h" "FacebookSDK.zip" "facebook-ios-sdk-3.19.pkg" "facebook-ios-sdk-3.18.2.pkg" "ContactUsViewController.m" "ContactUsViewController.h" "ConfirmationPageViewController.m" "ConfirmationPageViewController.h" "Bolts.framework/" "AFNetworking/" "__MACOSX/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/anduril/Downloads/nimnim_ios/NimNim/" (22997 7264 0 0) "UIScrollView+TPKeyboardAvoidingAdditions.m" "UIScrollView+TPKeyboardAvoidingAdditions.h" "UIColor+BFPaperColors/" "TPKeyboardAvoidingTableView.m" "TPKeyboardAvoidingTableView.h" "TPKeyboardAvoidingScrollView.m" "TPKeyboardAvoidingScrollView.h" "TPKeyboardAvoidingCollectionView.m" "TPKeyboardAvoidingCollectionView.h" "SWActionSheet.m" "SWActionSheet.h" "SlideOutMenuFiles/" "SKPSMTPMessage.m" "SKPSMTPMessage.h" "SignUpCardInfoViewController.m" "SignUpCardInfoViewController.h" "PickDateTimeViewController.xib" "PickDateTimeViewController.m" "PickDateTimeViewController.h" "OrderConfirmationViewController.m" "OrderConfirmationViewController.h" "NSStream+SKPSMTPExtensions.m" "NSStream+SKPSMTPExtensions.h" "NSData+Base64Additions.m" "NSData+Base64Additions.h" "NimNim.entitlements" "NimNim-Prefix.pch" "NimNim-Info.plist" "NewStepTwoDryCleaningViewController.m" "NewStepTwoDryCleaningViewController.h" "MBProgressHUD.m" "MBProgressHUD.h" "main.m" "LaunchPageViewController.m" "LaunchPageViewController.h" "Images.xcassets/" "HSK_CFUtilities.m" "HSK_CFUtilities.h" "HistoryTableViewController.m" "HistoryTableViewController.h" "HistoryTableViewCell.m" "HistoryTableViewCell.h" "FAQObject.m" "FAQObject.h" "en.lproj/" "DistancePickerView.m" "DistancePickerView.h" "CardIO/" "BFPaperCheckbox.m" "BFPaperCheckbox.h" "Base64Transcoder.m" "Base64Transcoder.h" "Base.lproj/" "AppDelegate.m" "AppDelegate.h" "AGPushNote/" "ActionSheetStringPicker.m" "ActionSheetStringPicker.h" "ActionSheetPicker.h" "ActionSheetLocalePicker.m" "ActionSheetLocalePicker.h" "ActionSheetDistancePicker.m" "ActionSheetDistancePicker.h" "ActionSheetDatePicker.m" "ActionSheetDatePicker.h" "ActionSheetCustomPickerDelegate.h" "ActionSheetCustomPicker.m" "ActionSheetCustomPicker.h" "AbstractActionSheetPicker.m" "AbstractActionSheetPicker.h" ".DS_Store" "../" "./")
+
+ ("/Users/anduril/Downloads/nimnim_ios/NimNim/Images.xcassets/" (22997 17177 0 0) "twitterButton.imageset/" "submitShoeIcon.imageset/" "submitLaundryIcon.imageset/" "submitDryCleaningIcon.imageset/" "stepDoneCheckmark.imageset/" "step3.imageset/" "step2.imageset/" "step1.imageset/" "Step 2 - Shoe Repair/" "Step 2 - New Dry Cleaning /" "Step 2 - Laundry/" "Step 2 - Dry Cleaning/" "Step 1 Icons/" "Solerepair.imageset/" "slideOutIconNotification.imageset/" "slideOutIcon.imageset/" "Skirt.imageset/" "Silk-Blouse.imageset/" "Sign Up Login/" "sideBarBackground.imageset/" "Shoeshine.imageset/" "Shoerepair.imageset/" "profileShortLongDivider.imageset/" "profileLongLineDivider.imageset/" "profileLineDivider.imageset/" "profileCoverPhoto.imageset/" "pricingList.imageset/" "pricing.imageset/" "price.imageset/" "pickUpTimeButtonSelected.imageset/" "pickUpTimeButton.imageset/" "Pickup.imageset/" "passwordSelectedTextFieldBackground.imageset/" "otherAddressIcon.imageset/" "officeAddressIcon.imageset/" "none_grey.imageset/" "none.imageset/" "nimNimTitleItem.imageset/" "nimNimLogoWhite.imageset/" "nimNimLogoGrey.imageset/" "nimNimLogo.imageset/" "myProfileBackground.imageset/" "morning.imageset/" "minusButton.imageset/" "medium_grey.imageset/" "medium.imageset/" "Lock.imageset/" "Location.imageset/" "light_grey.imageset/" "light.imageset/" "LaunchImage.launchimage/" "launchBackground.imageset/" "Jacket.imageset/" "Image.imageset/" "howItWorks.imageset/" "homeAddressIcon.imageset/" "Heelrepair.imageset/" "heavy_grey.imageset/" "heavy.imageset/" "facebookLogin.imageset/" "facebook.imageset/" "evening.imageset/" "emailUsButton.imageset/" "dropOffTimeButtonSelected.imageset/" "dropOffTimeButton.imageset/" "Dress.imageset/" "Dress-pants.imageset/" "dividerLine.imageset/" "Delivery.imageset/" "Date.imageset/" "Contents.json" "confirmationCheckmark.imageset/" "Coat.imageset/" "Card.imageset/" "cancelGrey.imageset/" "cancelButton.imageset/" "Cancel.imageset/" "cancel-1.imageset/" "callButton.imageset/" "BrandAsset.launchimage/" "back.imageset/" "AppIcon.appiconset/" "afternoon.imageset/" "addButton.imageset/" "a.imageset/" ".DS_Store" "../" "./")
+
+ ("/Users/anduril/Downloads/nimnim_ios/NimNim/Images.xcassets/AppIcon.appiconset/" (22997 54247 0 0) "iTunesArtwork@2x.png" "Icon-Small-50x50@2x.png" "Icon-Small-50x50@1x.png" "Icon-App-83.5x83.5@2x.png" "Icon-App-76x76@3x.png" "Icon-App-76x76@2x.png" "Icon-App-76x76@1x.png" "Icon-App-72x72@2x.png" "Icon-App-72x72@1x.png" "Icon-App-60x60@3x.png" "Icon-App-60x60@2x.png" "Icon-App-57x57@2x.png" "Icon-App-57x57@1x.png" "Icon-App-40x40@3x.png" "Icon-App-40x40@2x.png" "Icon-App-40x40@1x.png" "Icon-App-29x29@3x.png" "Icon-App-29x29@2x.png" "Icon-App-29x29@1x.png" "Icon-App-20x20@3x.png" "Icon-App-20x20@2x.png" "Icon-App-20x20@1x.png" "Contents.json" "87x87 copy.png.png" ".#Contents.json" "../" "./")
+
+ ("/Users/anduril/ezcred/" (22995 11850 0 0) "notes/" "../" "./")
+
+ ("/Users/anduril/opencv/" (22991 14153 0 0) "sample_video.mp4" "opentest.py~" "opentest.py" "bird.avi" "../" "./")
+
+ ("/Users/anduril/notes/" (22991 14153 0 0) "self_sufficient.md~" "self_sufficient.md" "learning_log.md" "feel_good.md~" "feel_good.md" "ezcred_data.md~" "ezcred_data.md" "books_2017.md~" "books_2017.md" "anxiety_log.md~" "anxiety_log.md" "../" "./")
+
+ ("/Users/anduril/Downloads/tabula/Tabula.app/" (22686 62716 0 0) "Contents/" "../" "./")
+
+ ("/Users/anduril/machine_learning/ml_3_ng/ex3/" (22988 56185 0 0) "submit.m" "sigmoid.m" "predictOneVsAll.m" "predict.m" "oneVsAll.m" "lrCostFunction.m" "lib/" "fmincg.m" "ex3weights.mat" "ex3data1.mat" "ex3_nn.m" "ex3.m" "displayData.m" "../" "./")
+
+ ("/Users/anduril/machine_learning/ml_3_ng/" (22988 54324 0 0) "ex3.pdf" "ex3/" ".DS_Store" "../" "./")
+
+ ("/Users/anduril/.ipython/" (22783 44620 0 0) "profile_default/" "nbextensions/" "extensions/" "../" "./")
+
+ ("/Users/anduril/programming/" (22974 21688 0 0) "tutorial_book.playground/" "python/" "js/" "euler/" "codeforces/" "codechef/" ".DS_Store" "../" "./")
+
+ ("codechef/" (22923 22803 0 0) "stringra.cpp" "../" "./")
+
+ ("/Users/anduril/get-shit-done/" (22961 27193 0 0) "sites.ini" "README.md" "get-shit-done.sh" "get-shit-done.py" "get-shit-done.php" "get-shit-done" ".vimrc" ".git/" ".DS_Store" ".config/" "#.vimrc#" "../" "./")
+
+ ("/Users/anduril/Downloads/com.perfios_2016-12-06_source_from_JADX/com/perfios/constants/" (22961 27193 0 0) "ProgressStatusMessages.java" "InstTypes.java" "AppConstants.java" "#AppConstants.java#" "../" "./")
+
+ ("/Users/anduril/Downloads/com.perfios_2016-12-06_source_from_JADX/com/perfios/http/" (22961 27188 0 0) "IHTTPListeners.java" "HTTPStatus.java" "HTTPManager.java" "HTTPClientFactory.java" "constants/" "BackgroundHTTP.java~" "BackgroundHTTP.java" "../" "./")
+
+ ("/Users/anduril/Downloads/NimNim Final 12032015 Card 2 4 4/" (22961 27580 0 0) "UserProfileViewController.m" "UserProfileViewController.h" "Stripe/" "StepTwoShoeRepairViewController.m" "StepTwoShoeRepairViewController.h" "StepTwoLaundryViewController.m" "StepTwoLaundryViewController.h" "StepThreeViewController.m" "StepThreeViewController.h" "StepOneViewController.m" "StepOneViewController.h" "SlideOutViewController.m" "SlideOutViewController.h" "SignUpViewController.m" "SignUpViewController.h" "SignUpAddressViewController.m" "SignUpAddressViewController.h" "PricingViewController.m" "PricingViewController.h" "Pods/" "Podfile.lock" "Podfile" "PFFacebookUtils.m" "PFFacebookUtils.h" "PFFacebookPrivateUtilities.m" "PFFacebookPrivateUtilities.h" "PFFacebookMobileAuthenticationProvider_Private.h" "PFFacebookMobileAuthenticationProvider.m" "PFFacebookMobileAuthenticationProvider.h" "PFFacebookAuthenticationProvider.m" "PFFacebookAuthenticationProvider.h" "Parse.framework/" "parse/" "NimNimTests/" "NimNim.xcworkspace/" "NimNim.xcodeproj/" "NimNim/" "LogInViewController.m" "LogInViewController.h" "ForgotPasswordViewController.m" "ForgotPasswordViewController.h" "FBSDKShareKit.framework/" "FBSDKLoginKit.framework/" "FBSDKCoreKit.framework/" "FAQViewController.m" "FAQViewController.h" "FacebookSDK.zip" "facebook-ios-sdk-3.19.pkg" "facebook-ios-sdk-3.18.2.pkg" "ContactUsViewController.m" "ContactUsViewController.h" "ConfirmationPageViewController.m" "ConfirmationPageViewController.h" "Bolts.framework/" "AFNetworking/" "__MACOSX/" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/anduril/Downloads/NimNim Final 12032015 Card 2 4 4/NimNim/" (22961 27158 0 0) "UIScrollView+TPKeyboardAvoidingAdditions.m" "UIScrollView+TPKeyboardAvoidingAdditions.h" "UIColor+BFPaperColors/" "TPKeyboardAvoidingTableView.m" "TPKeyboardAvoidingTableView.h" "TPKeyboardAvoidingScrollView.m" "TPKeyboardAvoidingScrollView.h" "TPKeyboardAvoidingCollectionView.m" "TPKeyboardAvoidingCollectionView.h" "SWActionSheet.m" "SWActionSheet.h" "SlideOutMenuFiles/" "SKPSMTPMessage.m" "SKPSMTPMessage.h" "SignUpCardInfoViewController.m" "SignUpCardInfoViewController.h" "OrderConfirmationViewController.m" "OrderConfirmationViewController.h" "NSStream+SKPSMTPExtensions.m" "NSStream+SKPSMTPExtensions.h" "NSData+Base64Additions.m" "NSData+Base64Additions.h" "NimNim-Prefix.pch" "NimNim-Info.plist" "NewStepTwoDryCleaningViewController.m" "NewStepTwoDryCleaningViewController.h" "MBProgressHUD.m" "MBProgressHUD.h" "main.m" "LaunchPageViewController.m" "LaunchPageViewController.h" "Images.xcassets/" "HSK_CFUtilities.m" "HSK_CFUtilities.h" "HistoryTableViewController.m" "HistoryTableViewController.h" "HistoryTableViewCell.m" "HistoryTableViewCell.h" "FAQObject.m" "FAQObject.h" "en.lproj/" "DistancePickerView.m" "DistancePickerView.h" "CardIO/" "BFPaperCheckbox.m" "BFPaperCheckbox.h" "Base64Transcoder.m" "Base64Transcoder.h" "Base.lproj/" "AppDelegate.m" "AppDelegate.h" "AGPushNote/" "ActionSheetStringPicker.m" "ActionSheetStringPicker.h" "ActionSheetPicker.h" "ActionSheetLocalePicker.m" "ActionSheetLocalePicker.h" "ActionSheetDistancePicker.m" "ActionSheetDistancePicker.h" "ActionSheetDatePicker.m" "ActionSheetDatePicker.h" "ActionSheetCustomPickerDelegate.h" "ActionSheetCustomPicker.m" "ActionSheetCustomPicker.h" "AbstractActionSheetPicker.m" "AbstractActionSheetPicker.h" ".DS_Store" "../" "./")
+
+ ("/Users/anduril/Downloads/com.perfios_2016-12-06_source_from_JADX/assets/" (22957 330 0 0) "fonts/" "About.html" "../" "./")
+
+ ("/Users/anduril/Downloads/com.perfios_2016-12-06_source_from_JADX/" (22957 14316 0 0) "unknown/" "t.out" "res/" "original/" "org/" "javax/" "com/" "bolts/" "assets/" "apktool.yml" "AndroidManifest.xml" "android/" ".DS_Store" "../" "./")
+
+ ("/Users/anduril/Downloads/com.perfios_2016-12-06_source_from_JADX/com/perfios/fragment/" (22957 344 0 0) "YearlyReportFragment.java" "ULIPTransactionDetailFragment.java" "ULIPAccountHoldingsFragment.java" "TransactionFragment.java" "TransactionDetailFragment.java" "SSAccountTransactionFragment.java" "SSAccountSummaryFragment.java" "SignUpFragment.java" "SettingsFragment.java" "SetMasterPasswordFragment.java" "ReportFragment.java" "RenameAccountNameFragment.java" "NPSAccountPrefSchemeFragment.java" "NPSAccountHoldingFragment.java" "NetAssetFragment.java" "MyAccountFragment.java" "MonthlyReportFragment.java" "MiscAccountTransactionFragment.java" "MiscAccountSummaryFragment.java" "MFTransactionDetailFragment.java" "MFHoldingDetailFragment.java" "MFAccountTransactionFragment.java" "MFAccountSummaryFragment.java" "MFAccountHoldingsFragment.java" "LoginFragment.java" "LoanAccountTransactionFragment.java" "LoanAccountSummaryFragment.java" "InsuranceAccountTransactionFragment.java" "InsuranceAccountSummaryFragment.java" "FDAccountTransactionFragment.java" "FDAccountSummaryFragment.java" "EquityTransactionDetailFragment.java" "EquityAccountTransactionFragment.java" "EquityAccountSummaryFragment.java" "EquityAccountHoldingsFragment.java" "EPFTransactionDetailFragment.java" "EnterMasterPasswordFragment.java" "Enter2FAMessageFragment.java" "EditTransactionFragment.java" "EditAccountCredentials.java" "DashboardFragment.java" "CongratulationFragment.java" "ChangePasswordFragment.java" "BudgetNotificationFragment.java" "BudgetFragment.java" "BaseFragment.java" "BankCcCrTransactionReportFragment.java" "AddTransactionFragment.java" "AddNewAccountFragment.java" "AddMasterPasswordFragment.java" "AddBudgetFragment.java" "AddAccountPasswordFragment.java" "AccountConnectSyncFragment.java" "AccountConnectFragment.java" "AboutFragment.java" "../" "./")
+
+ ("/Users/anduril/Downloads/com.perfios_2016-12-06_source_from_JADX/com/perfios/helper/" (22957 342 0 0) "SecondLevelExpandableListView.java" "SecondLevelAdapter.java" "ParentLevelAdapter.java" "AddTransactionHelper.java" "AddBudgetHelper.java" "AccountHelper.java" "../" "./")
+
+ ("/Users/anduril/Downloads/com.perfios_2016-12-06_source_from_JADX/com/perfios/activity/" (22957 344 0 0) "Splash.java" "SlidingDashboard.java" "Login.java" "EnterPasswordDialog.java" "ChooseAccount.java" "../" "./")
+
+ ("/Users/anduril/Downloads/com.perfios_2016-12-06_source_from_JADX/com/perfios/constant/" (22957 340 0 0) "Category.java" "../" "./")
+
+ ("/Users/anduril/Downloads/com.perfios_2016-12-06_source_from_JADX/com/perfios/login/" (22957 13678 0 0) "LoginResult.java" "LoginManager.java" "enums/" "../" "./")
+
+ ("/Users/anduril/Downloads/com.perfios_2016-12-06_source_from_JADX/com/perfios/" (22957 13417 0 0) "vo/" "views/" "utils/" "user/" "ui/" "transactions/" "ss/" "slidingmenu/" "report/" "misc/" "mf/" "login/" "loan/" "listener/" "ins/" "http/" "helper/" "fragment/" "formatters/" "fd/" "eq/" "enums/" "db/" "crypto/" "constants/" "constant/" "common/" "categories/" "C0315R.java" "BuildConfig.java" "application/" "androidappsettings/" "analytics/" "adapter/" "activity/" "account/" ".DS_Store" "../" "./")
+
+ ("/Users/anduril/Downloads/com.perfios_2016-12-06_source_from_JADX/com/" (22957 13412 0 0) "squareup/" "perfios/" "handmark/" "google/" "facebook/" ".DS_Store" "../" "./")
+
+ ("/Users/anduril/get-shit-done/.config/" (22955 52502 0 0) "get-shit-done.ini~" "get-shit-done.ini" "../" "./")
+
+ ("/Users/anduril/probability_lectures/" (22921 41242 0 0) "Lecture 9 - Expectation, Indicator Random Variables, Linearity _ Statistics 110-LX2q356N2rU.webm" "Lecture 8 - Random Variables and Their Distributions _ Statistics 110-k2BB0p8byGA.webm" "Lecture 7 - Gambler's Ruin and Random Variables _ Statistics 110-PNrqCdslGi4.webm" "Lecture 4 - Conditional Probability _ Statistics 110-P7NE4WF8j-Q.webm" "Lecture 2 - Story Proofs, Axioms of Probability _ Statistics 110-FJd_1H3rZGg.webm" "Lecture 10 - Expectation Continued _ Statistics 110-P1fSFvhPf7Q.webm" ".DS_Store" "../" "./")
+
+ ("/Users/" (22781 58571 0 0) "Shared/" "Guest/" "anduril/" ".localized" "../" "./")
+
+ ("/Users/anduril/Downloads/MyUniverse---buy-mutual-fund,-loan,-credit-card_v1.0.11pakage_source_from_JADX/" (22953 6023 0 0) "unknown/" "res/" "p048e/" "p035c/" "p034d/" "p030b/" "p001a/" "original/" "org/" "myuniverse/" "lib/" "jsr305_annotations/" "javax/" "de/" "com/" "butterknife/" "assets/" "apktool.yml" "AndroidManifest.xml" "android/" ".DS_Store" "../" "./")
+
+ ("/Users/anduril/programming/euler/" (22944 4833 0 0) "Untitled.ipynb" "roman.py~" "roman.py" "primes.py~" "primes.py" "newton_pepys.ipynb" "__pycache__/" "95.py.ipynb" "89.txt" "89.py" "86.py~" "86.py" "85.py~" "85.py" "84.ipynb" "83.txt" "83.py~" "83.py" "77.py.ipynb" "206.py.ipynb" "205.py~" "205.py" "125.ipynb" "124.py~" "124.py" "123.ipynb" "120.py.ipynb" "119.ipynb" "116.ipynb" "108.py.ipynb" "100.py~" "100.py" ".ipynb_checkpoints/" "../" "./")
+
+ ("/Users/anduril/programming/codeforces/" (22923 22847 0 0) "545_d.o" "545_d.cpp~" "545_d.cpp" "../" "./")
+
+ ("/Users/anduril/programming/codechef/" (22923 28017 0 0) "stringra.o" "stringra.cpp~" "stringra.cpp" "rainbow.o" "rainbow.cpp~" "rainbow.cpp" "../" "./")
+
+ ("/Users/anduril/Downloads/MyUniverse---buy-mutual-fund,-loan,-credit-card_v1.0.11pakage_source_from_JADX/p001a/" (22953 4734 0 0) "p002a/" "C0004a.java" ".DS_Store" "../" "./")
+
+ ("/Users/anduril/Downloads/MyUniverse---buy-mutual-fund,-loan,-credit-card_v1.0.11pakage_source_from_JADX/p001a/p002a/" (22952 57328 0 0) "C0003c.java" "C0002b.java" "C0001a.java" "../" "./")
+
+ ("/Users/anduril/Downloads/MyUniverse---buy-mutual-fund,-loan,-credit-card_v1.0.11pakage_source_from_JADX/res/" (22953 4624 0 0) "values-zu/" "values-zh-rTW/" "values-zh-rHK/" "values-zh-rCN/" "values-xxhdpi-v4/" "values-xlarge-v4/" "values-w820dp-v13/" "values-vi/" "values-v25/" "values-v24/" "values-v23/" "values-v22/" "values-v21/" "values-v18/" "values-v17/" "values-v16/" "values-v14/" "values-v13/" "values-v12/" "values-v11/" "values-uz-rUZ/" "values-uz/" "values-ur-rPK/" "values-ur/" "values-uk/" "values-tr/" "values-tl/" "values-th/" "values-te-rIN/" "values-te/" "values-ta-rIN/" "values-ta/" "values-sw600dp-v13/" "values-sw/" "values-sv/" "values-sr/" "values-sq-rAL/" "values-sq/" "values-sl/" "values-sk/" "values-si-rLK/" "values-si/" "values-ru/" "values-ro/" "values-pt-rPT/" "values-pt-rBR/" "values-pt/" "values-port/" "values-pl/" "values-pa-rIN/" "values-pa/" "values-nl/" "values-night-v8/" "values-ne-rNP/" "values-ne/" "values-nb/" "values-my-rMM/" "values-my/" "values-ms-rMY/" "values-ms/" "values-mr-rIN/" "values-mr/" "values-mn-rMN/" "values-mn/" "values-ml-rIN/" "values-ml/" "values-mk-rMK/" "values-mk/" "values-lv/" "values-lt/" "values-lo-rLA/" "values-lo/" "values-ldltr-v21/" "values-large-v4/" "values-land/" "values-ky-rKG/" "values-ky/" "values-ko/" "values-kn-rIN/" "values-kn/" "values-km-rKH/" "values-km/" "values-kk-rKZ/" "values-kk/" "values-ka-rGE/" "values-ka/" "values-ja/" "values-iw/" "values-it/" "values-is-rIS/" "values-is/" "values-in/" "values-hy-rAM/" "values-hy/" "values-hu/" "values-hr/" "values-hi/" "values-hdpi-v4/" "values-h720dp-v13/" "values-gu-rIN/" "values-gu/" "values-gl-rES/" "values-gl/" "values-fr-rCA/" "values-fr/" "values-fi/" "values-fa/" "values-eu-rES/" "values-eu/" "values-et-rEE/" "values-et/" "values-es-rUS/" "values-es/" "values-en-rIN/" "values-en-rGB/" "values-en-rAU/" "values-el/" "values-de/" "values-da/" "values-cs/" "values-ca/" "values-bs-rBA/" "values-bs/" "values-bn-rBD/" "values-bn/" "values-bg/" "values-be-rBY/" "values-be/" "values-b+sr+Latn/" "values-az-rAZ/" "values-az/" "values-ar/" "values-am/" "values-af/" "values/" "transition/" "raw/" "mipmap-xxxhdpi-v4/" "mipmap-xxhdpi-v4/" "mipmap-xhdpi-v4/" "mipmap-mdpi-v4/" "mipmap-hdpi-v4/" "menu/" "layout-v22/" "layout-v21/" "layout-v17/" "layout-v16/" "layout-v11/" "layout-sw600dp-v13/" "layout/" "drawable-xxxhdpi-v4/" "drawable-xxhdpi-v4/" "drawable-xhdpi-v4/" "drawable-v23/" "drawable-v21/" "drawable-mdpi-v4/" "drawable-ldrtl-xxxhdpi-v17/" "drawable-ldrtl-xxhdpi-v17/" "drawable-ldrtl-xhdpi-v17/" "drawable-ldrtl-mdpi-v17/" "drawable-ldrtl-hdpi-v17/" "drawable-hdpi-v4/" "drawable-anydpi-v21/" "drawable/" "color-v23/" "color-v11/" "color/" "animator-v21/" "anim-v21/" "anim/" ".DS_Store" "../" "./")
+
+ ("/Users/anduril/Downloads/MyUniverse---buy-mutual-fund,-loan,-credit-card_v1.0.11pakage_source_from_JADX/res/values/" (22952 57354 0 0) "transitions.xml" "styles.xml" "strings.xml" "raws.xml" "public.xml" "menus.xml" "integers.xml" "ids.xml" "drawables.xml" "dimens.xml" "colors.xml" "bools.xml" "attrs.xml" "arrays.xml" "anims.xml" "animators.xml" "../" "./")
+
+ ("/Users/anduril/todo/codechef/" (22923 22803 0 0) "stringra.cpp" "../" "./")
+
+ ("/Users/anduril/Downloads/algorithms/" (22887 59225 0 0) "soln7.pdf" "soln6.pdf" "soln5.pdf" "soln4.pdf" "soln3.pdf" "soln2.pdf" "soln1.pdf" "soln-final.pdf" "ps7.pdf" "ps6.pdf" "ps5.pdf" "ps4.pdf" "ps3.pdf" "ps2.ps" "ps2.pdf" "ps1.pdf" "new_file.txt" "midterm-soln.pdf" "mid.pdf" "final.pdf" "../" "./")
+
+ ("/Users/anduril/.emacs.d/elpa/zenburn-theme-20170306.2250/" (22783 30589 0 0) "zenburn-theme.el" "zenburn-theme-pkg.el" "zenburn-theme-autoloads.el" "../" "./")
+
+ ("/Users/anduril/programming/js/" (22786 26261 0 0) "package.json" "node_modules/" "first.js~" "first.js" "dancing_circles.html~" "dancing_circles.html" "d3.min.js" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/anduril/programming/js/.git/" (22786 25972 0 0) "refs/" "objects/" "info/" "hooks/" "HEAD" "description" "config" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

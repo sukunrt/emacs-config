@@ -1,0 +1,1 @@
+("~/keplerlabs/asmith/" "~/keplerlabs/babel/" "~/keplerlabs/babel/parse_statement/parse_statement/asmith/" "~/.emacs.d/elpa/jedi-core-20170121.610/" "~/Downloads/nimnim_ios/" "~/Downloads/NimNim Final 12032015 Card 2 4 4/" "~/programming/js/" "~/get-shit-done/")
